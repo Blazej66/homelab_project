@@ -12,5 +12,9 @@ connection.
 
 - Checked /var/log/apt from pure curiosity to check all installed apps by Ansible appear here.
 
+- Enabled automatic updates on Pi 3 
 
+- Lock down password logins on Pi 3 by configuring /etc/ssh/sshd_config
+
+- Added Firewall UFW for Pi 3 in order to use it for future use 
 
